@@ -1,0 +1,8 @@
+/* Hobbies (resume-skills block on the Experience page): theme defaults are 1rem / 0.7rem */
+.skills-name {
+  font-size: 1.2rem;
+}
+
+.skills-description {
+  font-size: 1.0rem;
+}
